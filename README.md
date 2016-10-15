@@ -1,6 +1,6 @@
 # smbinning
 
-I used this package extensively while working at a financial institution. For areas like credit risk modeling, designing a scorecard is very beneficial because the decision to grant a loan or not is automated.
+I used this package extensively while working at a financial institution. For areas like credit risk modeling, designing a scorecard is very beneficial because the decision to grant a loan can be automated. smbinning is very useful for this regard!
 
 The main purpose of this package is to categorize a numeric variable into bins mapped to a binary target variable for its 
 ulterior usage in scoring modeling. This functionality reduces dramatically the time consuming process of finding the optimal
